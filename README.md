@@ -53,6 +53,14 @@ The objective of this task is to:
 
 ---
 
+## Full Preview of Notebook Output
+
+```
+https://nbviewer.org/github/sana2427/AI-and-Data-Science-Intership-Task-6/blob/main/DS_Internship_Task_6.ipynb
+```
+
+---
+
 ## Approach
 
 ### 1️⃣ Data Loading
